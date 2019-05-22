@@ -1,2 +1,2 @@
 # CSP EXAMPLE-PROJECT
-This is an example for my CSP project.
+This is an example repository for my CSP project.
