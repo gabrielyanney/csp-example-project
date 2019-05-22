@@ -1,2 +1,2 @@
-# csp-example-project
+# CSP-PROJECT
 This is an example for my CSP project.
